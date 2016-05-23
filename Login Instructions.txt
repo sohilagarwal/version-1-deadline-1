@@ -1,0 +1,1 @@
+To gain access, the user must complete a genric login. They will then be able to login as different user stories - seller, buyer, deliverer. And the user will also be able to switch between user stories.
